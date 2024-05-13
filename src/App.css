@@ -392,9 +392,7 @@ header {
   .dashboard-img {
     width: 80%;
   }
-  .home-desc-2-left img {
-    width: 350px;
-  }
+
   .home-body {
     flex-direction: column;
     margin-top: 20px;
@@ -420,6 +418,7 @@ header {
     margin-right: 10px;
     margin-top: -5px;
   }
+
   .header-left h4 {
     margin-top: -5px;
   }
@@ -491,6 +490,9 @@ header {
   }
   .home-pricing-innovator {
     margin: 20px;
+  }
+  .home-desc-2-left img {
+    height: 300px;
   }
 }
 
