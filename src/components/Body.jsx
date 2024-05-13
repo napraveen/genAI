@@ -15,7 +15,7 @@ const Body = () => {
               Step into a new era of strategic decision-making. Horizon empowers
               business in the marketing space with unparalleled
             </p>
-            <button className="get-started">Get started -</button>
+            <button className="get-started">Get started</button>
           </div>
         </div>
         <div className="body-right">

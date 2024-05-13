@@ -18,7 +18,7 @@ const Header = () => {
           <p>FAQ</p>
         </div>
         <div className="header-right">
-          <button className="get-started">Get Started -</button>
+          <button className="get-started">Get Started</button>
         </div>
       </header>
     </div>
