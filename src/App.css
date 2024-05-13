@@ -492,7 +492,8 @@ header {
     margin: 20px;
   }
   .home-desc-2-left img {
-    height: 300px;
+    height: 350px;
+    width: 90%;
   }
 }
 
